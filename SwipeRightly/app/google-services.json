@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "818977461487",
+    "firebase_url": "https://swiperightly-97139-default-rtdb.firebaseio.com",
+    "project_id": "swiperightly-97139",
+    "storage_bucket": "swiperightly-97139.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:818977461487:android:9276bbc59957321bac371a",
+        "android_client_info": {
+          "package_name": "com.example.swiperightly"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "818977461487-2f97u861a1flhjiosrrc5hdd28mnqckt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAcOr27W188l5lnLk0eDIlqdNz_GgANQQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "818977461487-2f97u861a1flhjiosrrc5hdd28mnqckt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
